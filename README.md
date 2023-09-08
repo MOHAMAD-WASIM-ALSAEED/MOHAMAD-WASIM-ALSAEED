@@ -9,12 +9,6 @@
     <a href="https://www.upwork.com/freelancers/~01b02835384edcfc00" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="Upwork" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/waseem_ALSAEED" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="waseem_ALSAEED" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/wasimalsaeed007" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wasimalsaeed007" height="30" width="40" />
-  </a>
 </p>
 
 
