@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, I'm Mohamad Wasim AlSaeed 👋</h1>
+<h1 align="center">Greetings, I'm Mohamad Wasim Alsaeed 👋</h1>
 <h3 align="center">Passionate .NET Developer</h3>
 
 <h3 align="center">Find me on:</h3>
